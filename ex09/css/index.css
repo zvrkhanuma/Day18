@@ -1,0 +1,77 @@
+.container {
+    background-color: grey;
+    text-align: center;
+    margin: 0 auto;
+    background-image: url(../img/gigi-logo.png);
+    
+}
+   
+
+
+#branding {
+    padding-left: 10%;
+    
+    text-align: left;
+    width: 20%;
+    padding-right: 2%;
+  font-size: 70%;
+  
+  text-align: center;
+ 
+
+   
+}
+.highlight {
+    padding-top: 4%;
+
+    
+}
+nav {
+    width: 20%;
+    margin: 0 auto;}
+ul {
+    text-align: end;}
+
+.current {
+ display: inline-block;}
+ #showcase {
+     background-image: url(../img/gigi-logo.png);
+     
+
+ }
+
+#newsletter {
+    width: 50%;
+   
+
+}
+#boxes {
+    width: auto;
+    height: auto;
+
+   
+}
+.box {
+ 
+    
+   
+
+    
+}
+
+#html-logo {
+    float: left;
+   
+}
+#css-logo {
+    float: left;
+
+}
+#js-logo {
+    float:right;
+
+}
+
+footer {
+    float:none;
+}
